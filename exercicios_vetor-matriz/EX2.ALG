@@ -1,4 +1,4 @@
-Algoritmo "ex2"
+Algoritmo "ex3"
 // Autor(a)    : Heloisa
 // Data atual  : 07/11/2022
 var
@@ -12,7 +12,7 @@ para contador de 1 ate 8 faca
    n[contador] <- randi(10)
 fimpara
 
-escreval("Digite um número de 0 a 10.")
+escreval("Digite um nÃºmero de 0 a 10.")
 leia(nmr)
 
 para contador de 1 ate 8 faca
@@ -22,9 +22,9 @@ para contador de 1 ate 8 faca
 fimpara
 
 se (outro = verdadeiro) entao
-   escreval("O número está na" ,contador, "° posição")
+   escreval("O nÃºmero estÃ¡ na" ,contador, "Â° posiÃ§Ã£o")
 senao
-   escreval("O número não está no vetor")
+   escreval("O nÃºmero nÃ£o estÃ¡ no vetor")
 fimse
 
 fimalgoritmo
